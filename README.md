@@ -106,3 +106,4 @@ Lógica de Programação
 ## 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/fabio-anderson-dev/)
+E-mail: fabioandersonvelan@gmail.com
